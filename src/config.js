@@ -10,7 +10,7 @@ export default {
     cognito: {
       REGION: "us-east-1",
       USER_POOL_ID: "us-east-1_FjqrVA0sh",
-      APP_CLIENT_ID: "notes-app-edcu",
+      APP_CLIENT_ID: "4ppajcabut8vsqs0n2pjp2sra7",
       IDENTITY_POOL_ID: "us-east-1:e8ce611c-a573-4eb0-af54-67c44d5d71e7"
     }
   };
